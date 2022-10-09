@@ -16,7 +16,7 @@ the project language and when the choose language menu is ready You will click a
 and click the import button after when Your project or **RELP** is ready go to Your ***config.json*** file and paste Your bot
 Token to __TOKEN__ section (make sure You have to copy Your bot token from Discord Developers portal)
 
-[![Run to Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/ultraopmodi/{})
+[![Run to Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/ultraopmodi/Bot-Function)
 
 and go to Your **Shell** and do this:
 
