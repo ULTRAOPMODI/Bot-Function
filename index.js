@@ -149,12 +149,12 @@ distube.on("playSong", async (queue, song) => {
         .setStyle(Discord.ButtonStyle.Danger),
 
      new Discord.ButtonBuilder()
-        .setLabel("🔉 Volume Up")
+        .setLabel("🔊 Volume Up")
         .setCustomId("gooo")
         .setStyle(Discord.ButtonStyle.Success),
 
      new Discord.ButtonBuilder()
-        .setLabel("🔈 Volume Down")
+        .setLabel("🔉 Volume Down")
         .setCustomId("run")
         .setStyle(Discord.ButtonStyle.Success),
     )
