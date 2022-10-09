@@ -18,9 +18,9 @@ Token to __TOKEN__ section (make sure You have to copy Your bot token from Disco
 
 [![Run to Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/ultraopmodi/{})
 
-and go to Your**Shell** and do this:
+and go to Your **Shell** and do this:
 
-```shell
+```console
 npm install
 ```
 
@@ -34,5 +34,4 @@ Thanks for choosing this project.
 
 > If You found some error or issue on this project then contact me on
 > **[Discord Server](https://dsc.gg/upm)** or email me: **[ULTRA OP MODI](tectonium2008git@gmail.com)**
-> also Yo can comment me on YouTube# Bot-Function
-# Bot-Function
+> also You can comment me on my YouTube video or channel
