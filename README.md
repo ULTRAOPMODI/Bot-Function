@@ -17,7 +17,7 @@ the project language and when the choose language menu is ready You will click a
 Token to __TOKEN__ section (make sure You have to copy Your bot token from Discord Developers portal)
 
 [![Run to Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/ultraopmodi/Bot-Function)
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/official/heroku.svg)](https://heroku.com/deploy/?templete=https://github.com/ultraopmodi/Bot-Function)
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/official/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/ultraopmodi/Bot-Function)
 
 and go to Your **Shell** and do this:
 
