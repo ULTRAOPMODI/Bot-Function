@@ -1,5 +1,7 @@
 # **Moderation Bot v2**
 
+[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/official/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/ultraopmodi/Bot-Function)
+
 ### **Informations:**
 Hello guys,
 
@@ -10,14 +12,13 @@ here I add new new Futures You can use in Your ***Discord Server***
 Before You deploy Your bot You need to check setup guide for help to deploy the project
 
 ### **Setup Guide:**
-First click any deploy button below and wait for loading.
+First click the deploy button below and wait for loading.
 And You will see replit is open with **(Import From Github mode!)** and wait for choose
 the project language and when the choose language menu is ready You will click and choose **Node.js or nodejs or Nodejs**
 (If the system already choose **Nodejs** so, then You do not need select nodejs!) and click the import button after when Your project or **RELP** is ready go to Your ***config.json*** file and paste Your bot
 Token to __TOKEN__ section (make sure You have to copy Your bot token from Discord Developers portal)
 
 [![Run to Replit](https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg)](https://replit.com/github/ultraopmodi/Bot-Function)
-[![Deploy to Heroku](https://binbashbanana.github.io/deploy-buttons/buttons/official/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/ULTRAOPMODI/Bot-Function)
 
 and go to Your **Shell** and do this:
 
