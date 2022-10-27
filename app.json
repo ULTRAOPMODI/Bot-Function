@@ -2,5 +2,11 @@
   "name": "Bot-Function",
   "description": "This is a complex moderation bot project",
   "repotisory": "https://github.com/ultraopmodi/Bot-Function",
-  "keywords": ["GUILDS", "GUILD_MESSAGES", "GUILD_MEMBERS"]
+  "keywords": ["GUILDS", "GUILD_MESSAGES", "GUILD_MEMBERS"],
+  "env": {
+  "TOKEN": {
+   "description": "Enter here your bot token",
+   "value": ""
+  }
+ }
 }
