@@ -166,4 +166,6 @@ distube.on("finishSong", async (queue) => {
  queue.textChannel?.send("Queue Finished! Now You Play other music");
 });
 
-Bot.login(config.TOKEN)
+let Token = config.TOKEN || process.env.TOKEN
+
+Bot.login(Token)
