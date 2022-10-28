@@ -67,7 +67,7 @@ module.exports = {
     void interaction.reply({ embeds: [embed] });
    }
   } else {
-   interaction.reply({ content: "You do not have **Permission** to use this **Command**, ephemeral: true });
+   interaction.reply({ content: "You do not have **Permission** to use this **Command**", ephemeral: true });
    return;
   }
  }
